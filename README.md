@@ -8,6 +8,14 @@ This project implements a multi-agent AI system that:
 - Routes the input to the appropriate agent (JSON Agent, Email Agent)
 - Maintains shared context for traceability using a memory store
 
+## Table of Contents
+- [Tech Stack](#-tech-stack)
+- [Folder Structure](#-folder-structure)
+- [How to Run](#-how-to-run)
+- [Agents](#-agents)
+- [Sample Inputs](#-sample-inputs)
+- [Contributing](#-contributing)
+
 ## Tech Stack
 - Language: Python 3
 - Platform: Google Colab (Jupyter Notebook)
