@@ -46,33 +46,33 @@ This project implements a multi-agent AI system that:
 ## Folder Structure
 multi-agent-ai-system/
 │
-├── data/                   # Sample input documents (PDFs, JSONs, Emails)
-│   ├── samples/
-│   │   ├── sample_invoice.json
-│   │   ├── sample_rfq_email.txt
-│   │   └── sample_document.pdf
+├─ data/                   # Sample input documents (PDFs, JSONs, Emails)
+│   ├─ samples/
+│   │   ├─ sample_invoice.json
+│   │   ├─ sample_rfq_email.txt
+│   │   └─ sample_document.pdf
 │
-├── notebooks/              # Jupyter notebooks
-│   └── MultiagentAISystem.ipynb
+├─ notebooks/              # Jupyter notebooks
+│   └─ MultiagentAISystem.ipynb
 │
-├── agents/                 # Agent implementations
-│   ├── classifier_agent.py
-│   ├── json_agent.py
-│   └── email_agent.py
+├─ agents/                 # Agent implementations
+│   ├─ classifier_agent.py
+│   ├─ json_agent.py
+│   └─ email_agent.py
 │
-├── memory/                 # Memory store implementation (in-memory Redis simulation)
-│   └── memory_store.py
+├─ memory/                 # Memory store implementation (in-memory Redis simulation)
+│   └─ memory_store.py
 │
-├── utils/                  # Utility functions (parsing, format detection)
-│   └── helpers.py
+├─ utils/                  # Utility functions (parsing, format detection)
+│   └─ helpers.py
 │
-├── tests/                  # Unit tests for agents and utilities
-│   ├── test_classifier_agent.py
-│   ├── test_json_agent.py
-│   └── test_email_agent.py
+├─ tests/                  # Unit tests for agents and utilities
+│   ├─ test_classifier_agent.py
+│   ├─ test_json_agent.py
+│   └─ test_email_agent.py
 │
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation (this file)
+├─ requirements.txt        # Project dependencies
+├─ README.md               # Project documentation (this file)
 
 
 ## Sample Inputs
@@ -91,7 +91,7 @@ multi-agent-ai-system/
     "due_date": "2025-06-01"
   }
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to improve this project, please:
 
