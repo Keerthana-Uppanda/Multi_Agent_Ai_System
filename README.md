@@ -91,3 +91,19 @@ multi-agent-ai-system/
     "customer": "Acme Corp",
     "due_date": "2025-06-01"
   }
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project, please:
+
+1. *Fork the repository*
+
+2. *Create a feature branch*  
+   ```bash
+   git checkout -b feature-name
+3.*Commit the changes*
+  ```bash
+   git commit -m 'Add some feature'
+4.*Push to the branch*
+```bash
+git push origin feature-name
