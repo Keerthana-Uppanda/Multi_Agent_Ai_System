@@ -73,7 +73,6 @@ multi-agent-ai-system/
 │
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Project documentation (this file)
-└── LICENSE                 # (Optional) License file
 
 
 ## Sample Inputs
@@ -101,9 +100,9 @@ Contributions are welcome! If you'd like to improve this project, please:
 2. *Create a feature branch*  
    ```bash
    git checkout -b feature-name
+
 3.*Commit the changes*
-  ```bash
+   ```bash
    git commit -m 'Add some feature'
-4.*Push to the branch*
-```bash
-git push origin feature-name
+
+
