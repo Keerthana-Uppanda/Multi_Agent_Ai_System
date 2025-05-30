@@ -14,7 +14,8 @@ This project implements a multi-agent AI system that:
 - [How to Run](#-how-to-run)
 - [Agents](#-agents)
 - [Sample Inputs](#-sample-inputs)
-- [Contributing](#-contributing)
+- [Working Demo Video](#-working-demo-video)
+
 
 ## Tech Stack
 - Language: Python 3
@@ -90,16 +91,6 @@ multi-agent-ai-system/
     "customer": "Acme Corp",
     "due_date": "2025-06-01"
   }
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, please:
-
-1. *Fork the repository*
-
-2. *Create a feature branch*  
-   ```bash
-   git checkout -b feature-name
 
 
 
