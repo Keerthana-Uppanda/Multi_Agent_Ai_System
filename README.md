@@ -101,9 +101,6 @@ Contributions are welcome! If you'd like to improve this project, please:
    ```bash
    git checkout -b feature-name
 
-3.*Commit the changes*
-   ```bash
-   git commit -m 'Add some feature'
 
 
 ##Working Demo Video
